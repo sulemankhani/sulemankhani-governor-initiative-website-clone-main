@@ -30,7 +30,7 @@ const Footer = () => {
         <div>
             <h2 className='text-[22px] mt-5 mb-4 font-bold'>Social Links</h2>
             <ul className='flex gap-2'>
-                <li className='mb-2 text-[25px] text-blue-700'><Link href="" target='_blank'><CiFacebook /></Link></li>
+                <li className='mb-2 text-[25px] text-blue-700'><Link href="https://web.facebook.com/Sulemankhanpalestin" target='_blank'><CiFacebook /></Link></li>
                 <li className='mb-2 text-[25px] text-red-500'></li>
                 <li className='mb-2 text-[25px] text-blue-700'><Link href="https://www.linkedin.com/in/suleman-khan-2478212b4/" target='_blank'><CiLinkedin /></Link></li>
                 <li className='mb-2 text-[25px] text-orange-500'><Link href="https://www.instagram.com/suelmankhan334/" target='_blank'><FaInstagram /></Link></li>
